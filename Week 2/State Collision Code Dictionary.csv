@@ -1,0 +1,62 @@
+﻿Code,Description
+0,Vehicle Going Straight Hits Pedestrian
+1,Vehicle Turning Right Hits Pedestrian
+2,Vehicle Turning Left Hits Pedestrian
+3,Vehicle Backing Hits Pedestrian
+4,Vehicle Hits Pedestrian - All Other Actions
+5,Vehicle Hits Pedestrian - Actions Not Stated
+10,Entering At Angle
+11,From Same Direction -Both Going Straight-Both Moving- Sideswipe
+12,From Same Direction -Both Going Straight-One Stopped- Sideswipe
+13,From Same Direction - Both Going Straight - Both Moving - Rear End
+14,From Same Direction - Both Going Straight - One Stopped - Rear End
+15,From Same Direction - One Left Turn - One Straight
+16,From Same Direction - One Right Turn - One Straight
+19,One Car Entering Parked Position
+20,One Car Leaving Parked Position
+21,One Car Entering Driveway Access
+22,One Car Leaving Driveway Access
+23,From Same Direction - All Others
+24,From Opposite Direction - Both Moving - Head On
+25,From Opposite Direction - One Stopped - Head On
+26,From Opposite Direction - Both Going Straight - sideswipe
+27,From Opposite Direction - Both Going Straight - One Stopped - sideswipe
+28,From Opposite Direction - One Left Turn - One Straight
+29,From Opposite Direction - One Left Turn - One Right Turn
+30,From Opposite Direction - All Others
+31,Not Stated
+32,One Parked - One Moving
+40,Train Struck Moving Vehicle
+41,Train Struck Stopped or Stalled Vehicle
+42,Vehicle Struck Moving Train
+43,Vehicle Struck Stopped Train
+44,Unicycle
+45,Bicycle
+46,Tricycle
+47,"Domestic Animal (horse, cow, sheep, etc)"
+48,"Domestic Animal Other (Cat, Dog etc)"
+49,"Non Domestic Animal (deer, bear, elk, etc)"
+50,Struck Fixed Object
+51,Struck Other Object
+52,Vehicle Overturned
+53,"Person Fell, Jumped, or was Pushed From Vehicle"
+54,Fire Started In Vehicle
+55,Accidently Overcame By Carbon Monoxide Poison
+56,Breakage Of Any Part Of the Vehicle Resulting In Injury or in Further Property Damage
+57,All Other Non-Collisions
+60,Vehicle Hits State Road or Construction Machinery
+61,Vehicle Struck By State Road or Construction Machinery
+62,Vehicle Hits County Road or Construction Machinery
+63,Vehicle Struck By County Road or Construction Machinery
+64,Vehicle Hits City Road or Construction Machinery
+65,Vehicle Struck By City Road or Construction Machinery
+66,Vehicle Hits Other Road or Construction Machinery
+67,Vehicle Struck by Other Road or Construction Machinery
+71,Same Direction - Both Turning Right - Both Moving - Sideswipe
+72,Same Direction - Both Turning Right - One Stopped - Sideswipe
+73,Same Direction - Both Turning Right - Both Moving - Rear End
+74,Same Direction - Both Turning Right - One Stopped - Rear End
+81,Same Direction - Both Turning Left - Both Moving - Sideswipe
+82,Same Direction - Both Turning Left - One Stopped - Sideswipe
+83,Same Direction - Both Turning Left - Both Moving - Rear End
+84,Same Direction - Both Turning Left - One Stopped - Rear End
